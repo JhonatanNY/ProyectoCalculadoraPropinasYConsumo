@@ -1,5 +1,5 @@
 import { formatCurrency } from "../helpers"
-import type { MenuItem, OrderItem } from "../types"
+import type { MenuItem } from "../types"
 
 type MenuItemProps = {
     item : MenuItem
